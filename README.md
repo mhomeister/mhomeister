@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Im currently working on adfinity and LogHub<br>👯 Im looking to collaborate on Laravel projects<br>🌱 Currently enjoying Laravel<br>⚡ WordPress Expert for custom development
+🔭 Im currently working on [adfinity](https://bundesweit.digital/produkt/adfinity-anzeigentool/) and [sevdesk2SEPA](https://sevdesk2sepa.de/)<br>👯 Im looking to collaborate on Laravel projects<br>🌱 Currently enjoying Laravel<br>⚡ WordPress Expert for custom development
 
 
 ## 🌐 Socials:
