@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1aWebmarketing) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MichaelHomeister) [![Daily.dev @ michaelhomeister](https://img.shields.io/badge/daily.dev-michaelhomeister-CE3DF3?logo=dailydotdev)](https://app.daily.dev/michaelhomeister)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/1aWebmarketing) [![Daily.dev @ michaelhomeister](https://img.shields.io/badge/daily.dev-michaelhomeister-CE3DF3?logo=dailydotdev)](https://app.daily.dev/michaelhomeister)
 
 
 # 💻 Tech Stack:
