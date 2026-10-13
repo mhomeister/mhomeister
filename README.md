@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Im currently working on [adfinity](https://bundesweit.digital/produkt/adfinity-anzeigentool/), [SEPApro](https://sepapro.de/) and [Handbrake Online](https://handbrake-online.com/)<br>👯 Im looking to collaborate on Laravel projects<br>🌱 Currently enjoying Laravel<br>⚡ WordPress Expert for custom development
+🔭 Im currently working on [adfinity](https://bundesweit.digital/produkt/adfinity-anzeigentool/), [SEPApro](https://sepapro.de/) and [Handbrake Online](https://handbrake-online.com/)<br>👯 Im looking to collaborate on Laravel projects<br>⚡ Laravel TALL<br>⚡ WordPress Expert for custom development
 
 
 ## 🌐 Socials:
